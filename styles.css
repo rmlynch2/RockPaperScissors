@@ -1,0 +1,12 @@
+body {
+    background-image: linear-gradient(to right,red,white,blue);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+#mainTitle {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    font-size: 40px;
+    
+}
